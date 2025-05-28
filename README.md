@@ -11,6 +11,8 @@ This is a detailed 3D model and assembly of a **Ball Bearing** created using **S
 
 It demonstrates modeling and assembly skills essential for machine design, and reflects standard industrial practices in bearing design.
 
+Project Final Image - https://github.com/BandelaShivaKumar/Ball-Bearing-SolidWorks/blob/main/Images%20Step%20by%20Step%20Process/Screenshot%202025-05-25%20095228.png
+
 ---
 
 ## ✨ Key Features
