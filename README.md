@@ -56,7 +56,7 @@ It demonstrates modeling and assembly skills essential for machine design, and r
 ## 👨‍💻 Author
 
 Bandela Shiva Kumar
-Mechanical Engineering Student 
+Mechanical Engineering Student
 GitHub: https://github.com/BandelaShivaKumar
 
 ---
