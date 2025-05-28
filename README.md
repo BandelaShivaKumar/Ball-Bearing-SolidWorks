@@ -23,6 +23,14 @@ Project Final Image - https://github.com/BandelaShivaKumar/Ball-Bearing-SolidWor
 - Use of assembly mates for accurate alignment
 - High-quality 3D representation for simulation or rendering
 
+- Outer Ring - https://github.com/BandelaShivaKumar/Ball-Bearing-SolidWorks/blob/main/Images%20Step%20by%20Step%20Process/Screenshot%202025-05-25%20101829.png
+
+- Inner Ring - https://github.com/BandelaShivaKumar/Ball-Bearing-SolidWorks/blob/main/Images%20Step%20by%20Step%20Process/Screenshot%202025-05-25%20101848.png
+
+- Ball - https://github.com/BandelaShivaKumar/Ball-Bearing-SolidWorks/blob/main/Images%20Step%20by%20Step%20Process/Screenshot%202025-05-25%20101906.png
+
+- Cage - https://github.com/BandelaShivaKumar/Ball-Bearing-SolidWorks/blob/main/Images%20Step%20by%20Step%20Process/Screenshot%202025-05-25%20101941.png
+
 ---
 
 ## 📂 File Structure
