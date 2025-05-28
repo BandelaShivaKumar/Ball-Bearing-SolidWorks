@@ -45,7 +45,7 @@ It demonstrates modeling and assembly skills essential for machine design, and r
 
 ## 🧰 Technologies & Skills Demonstrated
 
-- SolidWorks 2025 (Premium)
+- SolidWorks 2025 (Premium Version)
 - 3D Part Modeling: Revolve, Cut, Fillet
 - Assembly Techniques: Mates, Patterns, Symmetry
 - Circular Pattern and Mirror Tools
